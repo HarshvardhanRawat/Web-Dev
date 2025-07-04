@@ -9,6 +9,7 @@ I'm following the Apna College and building projects along the way.
 |-----|-------|--------|
 | 01  | HTML (Level 1) | Anchor Tag ; Boilerplate Code ; Bold Italic Underline Tag ; Elements & Tags ; Heading Element ; Image Element ; List |
 | 02  | HTML (Level 2) | Div Element ; Entities ; Inline & Block Elements ; Semantic Tags ; Sub & Sup Tags |
+| 03 | HTML (Level 3) | Col & Row Span ; Form ; Button ; Label ; Input ; Tables |
 
 ## 🔥 Tech Stack
 - HTML5
