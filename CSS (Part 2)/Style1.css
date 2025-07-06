@@ -1,0 +1,16 @@
+h1{
+    color:rgb(26, 130, 248)
+}
+
+.userbtn{
+    background-color:cyan;
+}
+
+#searchbtn{
+    color:white;
+    background-color:black;
+}
+
+#search div input{
+    color:purple;
+}

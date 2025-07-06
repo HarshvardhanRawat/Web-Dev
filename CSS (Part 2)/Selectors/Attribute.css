@@ -1,0 +1,4 @@
+input[attr="value"]{
+    color:blue;
+    /* property:value; */
+}
