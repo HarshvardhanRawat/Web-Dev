@@ -11,6 +11,7 @@ I'm following the Apna College and building projects along the way.
 | 02  | HTML (Level 2) | Div Element ; Entities ; Inline & Block Elements ; Semantic Tags ; Sub & Sup Tags |
 | 03 | HTML (Level 3) | Col & Row Span ; Form ; Button ; Label ; Input ; Tables |
 | 04 | CSS (Part 1) | Color ; Bcakground Color ; Font Family ; Font Weight ; Line Height ; Letter Spacing ; Text Align ; Text Decoration  | 
+| 05 | CSS (Part 2) | Pseudo Class ; Selectors ; Inheritance ; Traffic Light |
 
 ## 🔥 Tech Stack
 - HTML5
