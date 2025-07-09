@@ -13,6 +13,7 @@ I'm following the Apna College and building projects along the way.
 | 04 | CSS (Part 1) | Color ; Bcakground Color ; Font Family ; Font Weight ; Line Height ; Letter Spacing ; Text Align ; Text Decoration  | 
 | 05 | CSS (Part 2) | Pseudo Class ; Selectors ; Inheritance ; Traffic Light |
 | 06 | CSS (Part 3) | Height & Width ; Border ; Border Radius ; Display Property ; Margin ; Padding |
+| 07 | CSS (Part 4) | Position Property ; Transform ; Alpha and Opacity ; BackgroundImage ; BoxShadow ; Transition ; Simple Smiley Face |
 
 ## 🔥 Tech Stack
 - HTML5
