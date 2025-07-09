@@ -1,0 +1,12 @@
+div{
+    height:100px;
+    width:100px;
+    border:2px solid black;
+    border-radius:100%;
+    color:blue;
+    transition:1s;
+}
+
+div:hover{
+    border-radius:none;
+}

@@ -1,0 +1,11 @@
+div{
+    height: 100px;
+    width: 100px;
+    border:2px solid black;
+    border-radius:100%;
+    padding:10px;
+    margin:10px;
+    background-image:url(https://miro.medium.com/v2/resize:fit:800/1*SdXRP8f2Lhin89Tht_GRIA.jpeg);
+    background-size:cover;
+    /* Cover | Contain | Auto */
+}

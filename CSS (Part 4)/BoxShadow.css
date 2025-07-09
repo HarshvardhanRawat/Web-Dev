@@ -1,0 +1,11 @@
+div{
+    height: 100px;
+    width: 100px;
+    border:2px solid black;
+    border-radius:100%;
+    padding:10px;
+    margin:10px;
+    /* shorthand */
+    box-shadow:2px 2px 10px grey;
+    /* x offset | y offset | blur radius | color */
+}
