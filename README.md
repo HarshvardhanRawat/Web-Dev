@@ -14,6 +14,7 @@ I'm following the Apna College and building projects along the way.
 | 05 | CSS (Part 2) | Pseudo Class ; Selectors ; Inheritance ; Traffic Light |
 | 06 | CSS (Part 3) | Height & Width ; Border ; Border Radius ; Display Property ; Margin ; Padding |
 | 07 | CSS (Part 4) | Position Property ; Transform ; Alpha and Opacity ; BackgroundImage ; BoxShadow ; Transition ; Simple Smiley Face |
+| 08 | CSS (Part 5) | Display Flex ; Flex Direction ; Justify Content ; Flex Wrap ; Align content ; Flex Sizing |
 
 ## 🔥 Tech Stack
 - HTML5
