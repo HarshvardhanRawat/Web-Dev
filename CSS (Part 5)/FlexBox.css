@@ -1,0 +1,18 @@
+.box{
+    display:flex;
+    justify-content:center;
+    height:500px;
+    width:80%;
+    background-color:black;
+    margin: 10px auto;
+    /* row */
+    flex-direction:column;
+    flex-wrap:wrap;
+}
+
+.box div{
+    color:white;
+    height:100px;
+    width:300px;
+    text-align:center;
+}
