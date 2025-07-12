@@ -15,6 +15,7 @@ I'm following the Apna College and building projects along the way.
 | 06 | CSS (Part 3) | Height & Width ; Border ; Border Radius ; Display Property ; Margin ; Padding |
 | 07 | CSS (Part 4) | Position Property ; Transform ; Alpha and Opacity ; BackgroundImage ; BoxShadow ; Transition ; Simple Smiley Face |
 | 08 | CSS (Part 5) | Display Flex ; Flex Direction ; Justify Content ; Flex Wrap ; Align content ; Flex Sizing |
+| 09 | CSS (Part 6) | Transition ; Grid ; Media Queries ; Pet Adoption page |
 
 ## 🔥 Tech Stack
 - HTML5
