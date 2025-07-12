@@ -1,0 +1,42 @@
+h2{
+    color:orangered;
+    font-family:Georgia;
+    font-size:40px;
+}
+
+h1{
+    font-size:60px;
+}
+span{
+    color:goldenrod;    
+}
+
+h3{
+    font-size:50px;
+}
+
+p{
+    font-size:30px;
+}
+img{
+    border-radius:20px;
+}
+.card{
+    margin: 20px;
+    border:4px solid black;
+    width:800px;
+    height:1000px;
+    display:flex;
+    flex-direction:column;
+    border-radius:20px;
+    padding:20px;  
+}
+
+#pets{
+    display:flex;
+
+}
+
+h4{
+    font-size:40px;
+}
