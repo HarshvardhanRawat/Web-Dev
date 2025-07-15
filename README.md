@@ -17,6 +17,7 @@ I'm following the Apna College and building projects along the way.
 | 08 | CSS (Part 5) | Display Flex ; Flex Direction ; Justify Content ; Flex Wrap ; Align content ; Flex Sizing |
 | 09 | CSS (Part 6) | Transition ; Grid ; Media Queries ; Pet Adoption page |
 | 10 | Mini Project | Mini Project (Menu) |
+| 11 | Bootstrap | Buttons ; Badges ; Container ;  NavBar ; etc. |
 ## 🔥 Tech Stack
 - HTML5
 - CSS3
