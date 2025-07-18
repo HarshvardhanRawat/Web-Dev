@@ -18,6 +18,8 @@ I'm following the Apna College and building projects along the way.
 | 09 | CSS (Part 6) | Transition ; Grid ; Media Queries ; Pet Adoption page |
 | 10 | Mini Project | Mini Project (Menu) |
 | 11 | Bootstrap | Buttons ; Badges ; Container ;  NavBar ; etc. |
+| 12 | Java Script (Part 1) | Alert and Prompt ; Conditional Statements ; Switch Statement ; Truthy Falsy |
+| 13 | Java Script (Part 2) | Array ; String Methods |
 ## 🔥 Tech Stack
 - HTML5
 - CSS3
