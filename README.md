@@ -20,6 +20,8 @@ I'm following the Apna College and building projects along the way.
 | 11 | Bootstrap | Buttons ; Badges ; Container ;  NavBar ; etc. |
 | 12 | Java Script (Part 1) | Alert and Prompt ; Conditional Statements ; Switch Statement ; Truthy Falsy |
 | 13 | Java Script (Part 2) | Array ; String Methods |
+| 14 | JavaScript (Part 3) | Loops ; Todo List |
+| 15 | JavaScript (Part 4) | Object Literals ; Object of Objects ; Array of Objects |
 ## 🔥 Tech Stack
 - HTML5
 - CSS3
