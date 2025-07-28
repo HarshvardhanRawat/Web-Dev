@@ -22,6 +22,10 @@ I'm following the Apna College and building projects along the way.
 | 13 | Java Script (Part 2) | Array ; String Methods |
 | 14 | JavaScript (Part 3) | Loops ; Todo List |
 | 15 | JavaScript (Part 4) | Object Literals ; Object of Objects ; Array of Objects |
+| 17 | JavaScript (Part 5) | Function ; High order function ; Scopes |
+| 18 | JavaScript (Part 6) | Arrow Function ; Set Timout ; Set Interval ; Try and Catch ; this |
+| 19 | JavaScript (Part 7) | Array Methods ; Destruction ; Default Parameter ; Spread |
+| 20 | JavaScript (Part 8) | DOM|
 ## 🔥 Tech Stack
 - HTML5
 - CSS3
