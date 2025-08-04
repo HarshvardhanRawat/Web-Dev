@@ -1,0 +1,14 @@
+body{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction:column;
+}
+
+.box{
+    margin-top:10px;
+    height:200px;
+    width:500px;
+    border: 2px solid black;
+    text-align:center;
+}
