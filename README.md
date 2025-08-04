@@ -25,7 +25,8 @@ I'm following the Apna College and building projects along the way.
 | 17 | JavaScript (Part 5) | Function ; High order function ; Scopes |
 | 18 | JavaScript (Part 6) | Arrow Function ; Set Timout ; Set Interval ; Try and Catch ; this |
 | 19 | JavaScript (Part 7) | Array Methods ; Destruction ; Default Parameter ; Spread |
-| 20 | JavaScript (Part 8) | DOM|
+| 20 | JavaScript (Part 8) | DOM |
+| 21 | JavaScript (Part 9) | DOM Events , Random Color Generator|
 ## 🔥 Tech Stack
 - HTML5
 - CSS3
