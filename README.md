@@ -27,6 +27,7 @@ I'm following the Apna College and building projects along the way.
 | 19 | JavaScript (Part 7) | Array Methods ; Destruction ; Default Parameter ; Spread |
 | 20 | JavaScript (Part 8) | DOM |
 | 21 | JavaScript (Part 9) | DOM Events , Random Color Generator|
+| 22 | JavaScript (Part 10) | Todo with DOM |
 ## 🔥 Tech Stack
 - HTML5
 - CSS3
