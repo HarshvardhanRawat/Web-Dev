@@ -31,3 +31,4 @@ I'm following the Apna College and building projects along the way.
 ## 🔥 Tech Stack
 - HTML5
 - CSS3
+- JavaScript
